@@ -1,0 +1,364 @@
+
+.bg {
+    width: 1101.01px;
+    height: 827.01px;
+    background-color: #edf2c5;
+    padding-left: 159px;
+    padding-top: 53px;
+
+}
+.container{
+    width: 940px;
+    
+
+}
+
+.tools{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    
+
+}
+.head-part{
+    
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    
+}
+.logo_Vegetables {
+  width: 271px;
+  height: 42px;
+  font-family: Arial;
+  font-size: 44px;
+  font-weight: 900;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 0.82;
+  letter-spacing: normal;
+  text-align: left;
+  color: #778a50;
+}
+.btn_tool {
+  width: 25px;
+  height: 25px;
+  margin-right: 10px;
+}
+
+
+.vegetable_layout {
+  width: 1260px;
+  height: 940px;
+  background-color: #ffffff;
+}
+.line_login {
+  width: 1px;
+  height: 25px;
+  background-color: #778a50;
+}
+.btn_LOGIN {
+  width: 43px;
+  height: 10px;
+  font-family: Arial;
+  font-size: 14px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 2;
+  
+  letter-spacing: normal;
+  text-align: center;
+  color: #778a50;
+}
+.btn_LOGIN_box {
+  width: 60px;
+  height: 25px;
+  border-radius: 3px;
+  border: solid 1px #778a50;
+  background-color: #edf2c5;
+}
+.btn_JOIN {
+  width: 33px;
+  height: 10px;
+  font-family: Arial;
+  font-size: 14px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 2;
+  
+  letter-spacing: normal;
+  text-align: center;
+  color: #778a50;
+}
+.btn_JOIN_box {
+  width: 50px;
+  height: 25px;
+  border-radius: 3px;
+  border: solid 1px #778a50;
+  background-color: #edf2c5;
+}
+.nav_box {
+  width: 910px;
+  height: 44px;
+  border-radius: 3px;
+  display: flex;
+  flex-direction: row;
+  
+  background-color: #778a50;
+}
+ul{
+    margin-block-start:8px;
+    margin-block-end:20px;
+    padding-inline-start: 30px;
+    list-style-type: none;
+}
+li{
+    
+    margin-right: 60px;
+    
+    
+}
+li a{
+    line-height: 44px;
+    text-decoration: none;
+}
+.Home {
+  width: 50px;
+  height: 12px;
+  font-family: Arial;
+  font-size: 16px;
+  font-weight: 900;
+  font-stretch: normal;
+  font-style: normal;
+
+  letter-spacing: normal;
+  text-align: left;
+  color: #edf2c5;
+}
+.About-Us {
+  width: 80px;
+  height: 12px;
+  font-family: Arial;
+  font-size: 16px;
+  font-weight: 900;
+  font-stretch: normal;
+  font-style: normal;
+
+  letter-spacing: normal;
+  text-align: left;
+  color: #edf2c5;
+}
+.Vegetables {
+  width: 99px;
+  height: 15px;
+  font-family: Arial;
+  font-size: 16px;
+  font-weight: 900;
+  font-stretch: normal;
+  font-style: normal;
+
+  letter-spacing: normal;
+  text-align: left;
+  color: #edf2c5;
+}
+.Online {
+  width: 55px;
+  height: 12px;
+  font-family: Arial;
+  font-size: 16px;
+  font-weight: 900;
+  font-stretch: normal;
+  font-style: normal;
+
+  letter-spacing: normal;
+  text-align: left;
+  color: #edf2c5;
+}
+.Contact {
+  width: 69px;
+  height: 12px;
+  font-family: Arial;
+  font-size: 16px;
+  font-weight: 900;
+  font-stretch: normal;
+  font-style: normal;
+
+  letter-spacing: normal;
+  text-align: left;
+  color: #edf2c5;
+}
+.img_main_pumpkin {
+  width: 940px;
+  height: 448px;
+  margin-block-end: 30px;
+}
+.Vegetables2 {
+  width: 99px;
+  height: 15px;
+  font-family: Arial;
+  font-size: 16px;
+  font-weight: 900;
+  font-stretch: normal;
+  font-style: normal;
+    line-height: 15px;
+  letter-spacing: normal;
+  text-align: left;
+  color: #edf2c5;
+  margin-left: 30px;
+}
+.body_box_vegetables {
+  width: 445px;
+  height: 30px;
+  border-radius: 3px;
+  
+  background-color: #778a50;
+  padding-block-start: 15px;
+}
+.img_vegetables_pepper {
+  width: 140px;
+  height: 140px;
+}
+.-\30  {
+  width: 140px;
+  height: 140px;
+}
+.img_vegetables_corn {
+  width: 140px;
+  height: 140px;
+}
+.body_box_contact {
+  width: 445px;
+  height: 30px;
+
+  border-radius: 3px;
+    padding-block-start: 15px;
+  background-color: #778a50;
+}
+.area-father{
+    
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.area{
+    
+    width: 445px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    
+}
+
+.area img{
+    margin-block-start: 15px;
+    margin-block-end:35px ;
+}
+.Contact2 {
+  width: 69px;
+  height: 12px;
+  font-family: Arial;
+  font-size: 16px;
+  font-weight: 900;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 15px;
+  letter-spacing: normal;
+  text-align: left;
+  color: #edf2c5;
+  margin-left: 30px;
+}
+.line_contact_text {
+  width: 414px;
+  height: 1px;
+  background-color: #7d7d7d;
+  margin-top: 16px;
+}
+.body_box_contact_text {
+  width: 454px;
+  height: 140px;
+  border-radius: 3px;
+  background-color: #f7fbda;
+  margin-block-start: 15px;
+    margin-block-end:35px ;
+    display: flex;
+    flex-direction: column;
+    padding-left: 15px;
+}
+.For-any-questions-or-suggestions-about-Vegetables-Vegetables-C {
+  width: 410px;
+  height: 43px;
+  font-family: Arial;
+  font-size: 12px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.33;
+  letter-spacing: normal;
+  text-align: left;
+  color: #7d7d7d;
+}
+.body_box_contact_text {
+
+  width: 445px;
+  height: 140px;
+  border-radius: 3px;
+  background-color: #f7fbda;
+}
+.body_box_contact_text p{
+    margin:0px;
+    padding-top: 16px;
+}
+.E-mail- {
+  width: 193px;
+  height: 31px;
+  font-family: Arial;
+  font-size: 12px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  
+  letter-spacing: normal;
+  text-align: left;
+  color: #7d7d7d;
+  margin-top: 16px;
+  margin-bottom: 17px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  
+
+    
+
+}
+.E-mail- div{
+    padding: 0px;
+    line-height: 10px;
+}
+.box_footer {
+  width: 1260px;
+  height: 60px;
+  background-color: #778a50;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.Copyrights{
+  width: 302px;
+  height: 11px;
+  font-family: Arial;
+  font-size: 12px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  
+  letter-spacing: normal;
+  text-align: left;
+  color: #edf2c5;
+ float: center;
+}
